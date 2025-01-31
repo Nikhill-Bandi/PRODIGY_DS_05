@@ -83,4 +83,4 @@ This analysis highlights key patterns in traffic accident data, such as high acc
 For any inquiries or feedback regarding this project, please contact:
 
 - Email: [Nikhilnetha.b@gmail.com]
-- LinkedIn: [Nikhil Bandi](https://www.linkedin.com/in/nikhil-bandi-24464a26b/)
+- LinkedIn: Nikhil Bandi](https://www.linkedin.com/in/nikhil-bandi-24464a26b/
